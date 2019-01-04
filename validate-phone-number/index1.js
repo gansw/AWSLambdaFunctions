@@ -6,7 +6,7 @@
   * as part of the 'OrderFlowers' template.
   *
   * For instructions on how to set up and test this bot, as well as additional samples,
-  *  visit the Lex Getting Started documentation
+  *  visit the Lex Getting Started documentation.
   */
 
 
